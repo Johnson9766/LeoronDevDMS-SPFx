@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "leoron-dms-solution-client-side-solution",
+    "id": "becef1dc-1312-463a-a26a-14f4d50e9d38",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Leoron-DMS-solution description"
+      },
+      "longDescription": {
+        "default": "Leoron-DMS-solution description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "leoron-dms-solution Feature",
+        "description": "The feature that activates elements of the leoron-dms-solution solution.",
+        "id": "3a1dd768-1492-476f-aab8-8cec08a7ef34",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/leoron-dms-solution.sppkg"
+  }
+}

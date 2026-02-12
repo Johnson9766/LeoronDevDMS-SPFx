@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.8",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "leoron-dms-solution",
+    "libraryId": "becef1dc-1312-463a-a26a-14f4d50e9d38",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Leoron-DMS-solution",
+    "solutionShortDescription": "Leoron-DMS-solution description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
